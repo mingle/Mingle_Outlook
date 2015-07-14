@@ -25,8 +25,8 @@ end
 
 Mail.defaults do
   delivery_method :smtp, { 
-                           :address              => '<your_smtp_address>',
-                           :port                 => <smtp_port>,
+                           :address              => '<your_smtp_address>',  #'smtp.live.com'
+                           :port                 => <smtp_port>,            # port = 25 or 587
                            :domain               => '<your_domain>',
                            :user_name            => '<your_email_id@domain.com>',
                            :password             => '<your_password>',
@@ -35,8 +35,8 @@ Mail.defaults do
                            }
 
 
- retriever_method :imap, { :address    => '<your_imap_address>',
-                          :port       => <imap_port>,
+ retriever_method :imap, { :address    => '<your_imap_address>',           #'imap-mail.outlook.com'
+                          :port       => <imap_port>,                     # port = 993
                           :user_name  => '<your_email_id@domain.com>',
                           :password   => '<your_password>',
                           :enable_ssl => true    }
