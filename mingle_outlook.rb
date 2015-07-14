@@ -56,7 +56,7 @@ OPTIONS = {:access_key_id => '<access key>', :access_secret_key => '<secret key>
 emails.each do |email|
 	PARAMS = { 
 	  :card => { 
-	    :type => "Feedback", :name => email.subject, :description => email.body.decoded
+	    :type => "<card_type>", :name => email.subject, :description => email.body.decoded
 	    }
 	  }
 
