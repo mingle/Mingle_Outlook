@@ -3,7 +3,7 @@ The goal of this tool is to parse your Outlook emails and for each, create a car
 
 Requirements : 
 
-gem install mail
+`gem install mail`
 gem install gmail
 gem install api-auth
 
