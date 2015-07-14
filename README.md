@@ -6,9 +6,9 @@ Requirements :
  ```
  gem install mail
  gem install gmail
- gem install api-auth`
+ gem install api-auth
  ```
  
 Command to run : 
 
-ruby mingle_outlook.rb
+`ruby mingle_outlook.rb`
