@@ -44,7 +44,7 @@ end
 
 
 
-emails = Mail.find(keys: ['FROM','<user_email_ID>'])
+emails = Mail.find(keys: ['NOT','SEEN','FROM','<user_email_ID>'])
 
 
 
@@ -56,7 +56,7 @@ OPTIONS = {:access_key_id => '<access key>', :access_secret_key => '<secret key>
 emails.each do |email|
 	PARAMS = { 
 	  :card => { 
-	    :type => "<card_type>", :name => email.subject, :description => email.body.decoded
+	    :card_type_name => "<card_type>", :name => email.subject, :description => email.body.decoded
 	    }
 	  }
 
