@@ -44,7 +44,7 @@ end
 
 
 
-emails = Mail.find(keys: ['NOT','SEEN','<user_email_ID>'])
+emails = Mail.find(keys: ['FROM','<user_email_ID>'])
 
 
 
