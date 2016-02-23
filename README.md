@@ -2,7 +2,7 @@
 [![Build Status](https://snap-ci.com/ankitsri11/Mingle_Outlook/branch/test/build_image)](https://snap-ci.com/ankitsri11/Mingle_Outlook/branch/test)
 The goal of this tool is to parse your Outlook emails and for each, create a card within a mingle project with the content of the email in the body of the new Mingle card. 
 
-Requirements: 
+Requirements : 
  
  ```
  gem install mail
