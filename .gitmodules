@@ -1,0 +1,3 @@
+[submodule "data/node_project_digitalocean"]
+	path = data/node_project_digitalocean
+	url = git@github.com:ankitsri11/node_project_digitalocean.git
