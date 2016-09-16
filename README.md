@@ -16,7 +16,7 @@ Command to run ::::::
 
 `ruby mingle_outlook.rb`
 
-testing email id Snap
+
 
 
 
