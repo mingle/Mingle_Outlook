@@ -1,0 +1,453 @@
+"ThoughtWorks, Mingle
+Copyright 2007-2016 ThoughtWorks, Inc.
+
+The following Third Party Software is distributed with Mingle and use of such software is subject to the applicable license."							
+						
+						
+						
+										
+Software	Copyright	Description	License							
+abstract-1.0.0	Copyright (c) 2006 kuwata-lab.com all rights reserved	A library which enables develiopers to define abstract methods in Ruby.	abstract-1.0.0 is licensed under the same license as Ruby (http://www.ruby-lang.org/en/LICENSE.txt)							
+activation-1.1.jar	Copyright 1997-2007 Sun Microsystems	A Java implementation that allows developers who use Java technology can take advantage of standard services to determine the type of an arbitrary piece of data, encapsulate access to it, discover the operations available on it, and to instantiate the appropriate bean to perform said operation(s).	COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0							
+ActiveRecord-JDBC (0.9.7)	"Copyright (c) 2006-2008 Nick Sieger <nick@nicksieger.com>
+Copyright (c) 2006-2008 Ola Bini <ola.bini@gmail.com>"	Database adapter for Rails’ ActiveRecord component that can be used with JRuby. It allows use of virtually any JDBC-compliant database with your JRuby on Rails application.	"BSD License
+http://jruby-extras.rubyforge.org/ActiveRecord-JDBC/"							
+Actionmailer Optional TLS Plugin	Copyright 2007 Dave Thomas	Rails plugin for implemnting TLS encryption over SMTP.	http://www.workingwithrails.com/railsplugin/5602-action-mailer-optional-tls							
+acts_as_list	Copyright (c) 2007 David Heinemeier Hansson	This acts_as extension provides the capabilities for sorting and reordering a number of objects in a list. The class that has this specified needs to have a +position+ column defined as an integer on the mapped database table.	MIT License http://dev.rubyonrails.org/browser/plugins/acts_as_list/README							
+acts_as_paranoid	Copyright (c) 2005 Rick Olson	Rails plugin for ‘safe’ deletion of data.	http://svn.techno-weenie.net/projects/plugins/acts_as_paranoid/MIT-LICENSE							
+acts_as_versioned	Copyright (c) 2005 Rick Olson	Rails plugin for recording object history.	http://svn.techno-weenie.net/projects/plugins/acts_as_versioned/MIT-LICENSE							
+Ant	"Apache Ant
+   Copyright 1999-2006 The Apache Software Foundation
+
+   This product includes software developed by
+   The Apache Software Foundation (http://www.apache.org/).
+
+   This product includes also software developed by :
+     - the W3C consortium (http://www.w3c.org) ,
+     - the SAX project (http://www.saxproject.org)
+
+   The <sync> task is based on code Copyright (c) 2002, Landmark
+   Graphics Corp that has been kindly donated to the Apache Software
+   Foundation."	Build scripting.	Distributed under Apache 2.0 (copy attached in NOTICE folder)							
+ActiveMQ 5.2.0	See attached notice file; Apache_ActiveMQ_5.2.0_Notice.txt	A high performance Apache 2.0 licensed Message Broker and JMS 1.1 implementation.	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+Apache MINA 1.1.7	See attached notice file; Apache_MINA_1.1.7_Notice.txt	A framework which helps develop high performance and highly scalable network applications easily.	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+APIAuth	Copyright (c) 2012 Gemini SBS LLC	HMAC authentication client for Rails and ActiveResource	"Copyright (c) 2012 Gemini SBS LLC
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."							
+Asset Packager	Copyright (c) 2002 Douglas Crockford  (www.crockford.com)	A library to compress Javascript and CSS files into a single entity to make for faster downloads.	MIT License							
+AWS SDK for Ruby 1.8.1.2	Copyright 2011-2012 Amazon.com, Inc. or its affiliates. All Rights Reserved.	A library, code samples, and documentation to build Ruby applications on AWS cloud.	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+backport-util-concurrent.jar	Emory University	Java 5 Collections API backported to older platforms	Public Domain							
+big.js v3.0.1	Copyright (c) 2012 Michael Mclaughlin	JavaScript library for arbitrary-precision decimal arithmetic	"The MIT Expat Licence
+https://github.com/MikeMcl/big.js/blob/master/LICENCE"							
+Bundler v1.11.2	"Portions copyright (c) 2010 Andre Arko
+Portions copyright (c) 2009 Engine Yard"	Dependency management for Ruby applications	MIT License							
+ChartDirector	© 2007 Advanced Software Engineering Limited	Graphing Library.	http://www.advsofteng.com/licensefaq.html – commercial redistribution license – You agree not to modify, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the ChartDirector software. | http://www.advsofteng.com/cdruby.html							
+chunky_png 1.2.7	Copyright (c) 2010 Willem van Bergen	image processing library	MIT License							
+CKEditor	© 2003 - 2013 CKSource - Frederico Knabben. All rights reserved	Ready-for-use HTML text editor designed to simplify web content creation.	CKSource Closed Distribution License Agreement: http://cksource.com/license/ckeditor							
+Clippy	Copyright (c) 2008 Tom Preston-Werner	Clippy is a very simple Flash widget that makes it possible to place arbitrary text onto the client's clipboard.	"The MIT License
+ 
+Copyright (c) 2008 Tom Preston-Werner
+ 
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+ 
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+ 
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."							
+color_selector.js	Copyright (c) 2006 Michael Daines (http://www.mdaines.com)	Color Selection Library	"// Copyright (c) 2006 Michael Daines (http://www.mdaines.com)
+// 
+// Permission is hereby granted, free of charge, to any person obtaining
+// a copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to
+// permit persons to whom the Software is furnished to do so, subject to
+// the following conditions:
+// 
+// The above copyright notice and this permission notice shall be
+// included in all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+// EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+// NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+// LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+// OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+// WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."							
+Commons codec 1.6	See attached notice file: commons-codec-NOTICE.txt	Apache Commons Codec (TM) software provides implementations of common encoders and decoders such as Base64, Hex, Phonetic and URLs.	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+Commons compress 1.3	Copyright 2002-2011 The Apache Software Foundation	Defines an API for working with ar, cpio, Unix dump, tar, zip, gzip, Pack200 and bzip2 files.	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+Commons logging 1.1.1	Copyright 2003-2007 The Apache Software Foundation	A thin bridge between diferent logging implementations	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+Commons pool 1.3	Copyright 1999-2004 The Apache Software Foundation.	Pool provides an Object-pooling API, that provides a generic object pool interface, a toolkit for creating modular object pools and several general purpose pool implementations	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+compass 0.12.2	Copyright (c) 2009 Christopher M. Eppstein	Stylesheet Authoring Framework	MIT License							
+crypt-1.1.4	"Project  released under Public Domain to RubyForge on September 7, 2005. 
+
+The Blowfish code was adapted from Bruce Schneier's reference C code 
+(http://www.schneier.com/blowfish-download.html)
+
+The GOST code was adapted from Wei Dai's C++ code from the Crypto++ project 
+(http://sourceforge.net/projects/cryptopp).
+
+The IDEA code was based on the reference C implementation once published by MediaCrypt 
+(http://web.archive.org/web/20000816173624/www.ascom.ch/infosec/downloads.html)
+
+The Rijndael code was adapted from the reference ANSI C code by Paulo Barreto and Vincent Rijmen.
+(http://www.esat.kuleuven.ac.be/~rijmen/rijndael/rijndael-fst-3.0.zip)"	Pure Ruby cryptography lib	http://rubyforge.org/projects/crypt/ shows Public Domain							
+The DHTML / JavaScript Calendar	© Dynarch.com 2002 and later.	"» Popup or flat DHTML calendar
+» Suitable for selecting date/time"	"http://www.dynarch.com/projects/calendar/
+
+Licensed under LGPL (License included in NOTICE folder)"							
+dragtable	Copyright (c) 2010-2013, Andres akottr@gmail.com	Drag and drop HTML table support	Dual licensed under MIT and GPL							
+Dropzone	Copyright (c) 2012, Matias Meno	JavaScript lib provides drag’n’drop file uploads with image previews.	MIT License							
+elasticsearch 1.3.5	Copyright 2009-2015 ElasticSearch and Shay Banon	A distributed RESTful search engine built for the cloud.	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+engines	Copyright (c) 2007 James Adam	The engines plugin enhances Rails' own plugin framework, making it simple to share controllers, helpers, models, public assets, routes and migrations in plugins.	"Copyright (c) 2007 James Adam
+
+For more information, see: http://rails-engines.org
+
+The MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE."							
+erubis-2.6.5	Copyright (c) 2006-2009 kuwata-lab.com all rights reserved	Implementation of eRuby.	MIT License							
+evaporate.js	Copyright (c) 2014, TT Labs, Inc.	javascript library for directly uploading files from a web browser to AWS S3, using S3's multipart upload.	https://github.com/TTLabs/EvaporateJS/blob/master/evaporate.js							
+file_column	Copyright © Sebastian Kanthak	Rails plugin for managing attachment names in DB.	FileColumn is licensed under the same license as Ruby on Rails (MIT); http://opensvn.csie.org/rails_file_column/plugins/file_column/							
+Flowplayer 3.2.1	Copyright 2008, 2009 Flowplayer Ltd., all rights reserved	Video player for the web.	Flowplayer Unlimited License (http://flowplayer.org/download/license_unlimited.htm)							
+Flying Saucer 9.0.7	Copyright (c) 2004, 2005 Joshua Marinacci	"Flying Saucer is a pure-Java library for rendering arbitrary well-formed XML 
+(or XHTML) using CSS 2.1 for layout and formatting, output to Swing panels, 
+PDF, and images."	"https://xhtmlrenderer.dev.java.net/
+
+Licensed under LGPL"							
+Font Awesome	Copyright 2012 Dave Gandy dave@davegandy.com	The iconic font designed for use with Twitter Bootstrap	CC BY 3.0 http://creativecommons.org/licenses/by/3.0							
+Gson 2.2.4	Copyright 2008-2011 Google Inc.	A Java library that can be used to convert Java Objects into their JSON representation.	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+Highcharts-2.2.3	(c) 2009-2011 Torstein Hønsi	Charting Library	OEM license for Highcharts JS							
+Histogram 0.2.1.4	"Copyright (c) 2006, 2007, 2008 The University of Texas at Austin
+Copyright (c) 2009, University of Colorado at Boulder and Howard Hughes
+Copyright (c) 2013, Brigham Young University"	Generates histograms similar to R's hist and numpy's histogram functions.	https://github.com/jtprince/histogram/blob/master/LICENSE							
+Hoe 3.13.1	Copyright © Ryan Davis, seattle.rb	Hoe is a rake/rubygems helper for project Rakefiles. It helps you manage, maintain, and release your project and includes a dynamic plug-in system allowing for easy extensibility.	MIT License							
+Honeybadger 1.16.5	Copyright (c) 2015 Honeybadger Industries LLC	error management	https://github.com/honeybadger-io/honeybadger-ruby/blob/master/LICENSE							
+httpparty-0.6.1	Copyright (c) 2008 John Nunemaker	Ruby library for processing HTTP requests and consuming restful web services.	"MIT License
+(https://github.com/jnunemaker/httparty/blob/master/MIT-LICENSE)"							
+IE5.5+ PNG Alpha Fix v1.0RC4	(c) 2004-2005 Angus Turnbull http://www.twinhelix.com	Adds PNG support to IE5.5+ on Windows with no changes to  website HTML source code.	"Script License Agreement
+
+IE5.5+ PNG Alpha Fix v1.0RC4
+
+(c) 2004-2005 Angus Turnbull http://www.twinhelix.com
+
+This is licensed under the CC-GNU LGPL, version 2.1 or later. (Included in NOTICE directory)"							
+install4j	© Copyright 2001-2007 ej-technologies GmbH	Multi-platform Java installer builder that generates native installers and application launchers for Java applications.	http://www.ej-technologies.com/products/install4j/overview.html							
+iText 2.1.7	"* The Original Code is 'iText, a free JAVA-PDF library'.
+
+ * The Initial Developer of the Original Code is Bruno Lowagie. Portions created by
+ * the Initial Developer are Copyright (C) 1999, 2000, 2001, 2002 by Bruno Lowagie.
+ * All Rights Reserved.
+ * Co-Developer of the code is Paulo Soares. Portions created by the Co-Developer
+ * are Copyright (C) 2000, 2001, 2002 by Paulo Soares. All Rights Reserved."	open source lib to create and manipulate PDF docs	Mozilla Public License Version 1.1							
+JAXB-api 2.1	Copyright 1997-2007 Sun Microsystems, Inc. All rights reserved.	An API to bind Java objects to xml files and vice-versa.	Dual CDDL + GPL v.2							
+JAXB-impl 2.1.3	Copyright 1997-2007 Sun Microsystems, Inc. All rights reserved.	An implementation of the JAXB-api to bind Java objects to xml files and vice-versa.	Dual CDDL + GPL v.2							
+JSON 1.8.1	"JSON-Jruby is copyrighted free software by Daniel Luz <mernen at gmail dot com>,
+and is a derivative work of Florian Frank's json library <flori at ping dot de>."	A JSON implementation as a JRuby extension.	Ruby License (https://rubygems.org/gems/json/versions/1.8.3-java)							
+Apache Tomcat 8	Copyright © 1999-2015, The Apache Software Foundation	Apache Tomcat is an open source software implementation of the Java Servlet and JavaServer Pages technologies.	Apache License, Version 2.0							
+jLDAP	"Copyright 1998-2005 The OpenLDAP Foundation
+All rights reserved. Copyright to portions of this software is held by persons or entities other than OpenLDAP, full copyright information about this software can be found at http://www.openldap.org/."	A Java library to connect to LDAP servers	"The OpenLDAP Public License
+(For details, please see the included file, novell-jldap-devel-2008.03.01-1unix - LICENSE.txt)"							
+jmemcached-core-0.5.jar	Copyright 2008 ThimbleWare Inc.	A Java implementation of the server side of the memcahced protocol	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+jQuery	Copyright 2012 jQuery Foundation and other contributors	Javascript library	MIT License							
+jQuery Jeditable	Copyright (c) 2006-2013 Mika Tuupola, Dylan Verheul	In-place editing of text fields	MIT License							
+jQuery Tipsy	(c) 2008-2010 jason frame [jason@onehackoranother.com]	plugin for jQuery for tooltips	MIT License							
+jQuery UI	Copyright (c) 2012 jQuery Foundation and other contributors	Add-on to jQuery	MIT License							
+JRE	Copyright © 2014 Oracle Corporation and/or its affiliates 	1.7.0	"http://openjdk.java.net/legal/gplv2+ce.html
+http://openjdk.java.net/legal/"							
+JRuby 1.7.24	JRuby is Copyright (c) 2007-2015 The JRuby project	Java interpreter and runtime for Ruby programs.	"http://jruby.org/
+
+Distributed under a tri-license (EPL/LGPL/GPL) 
+
+  Eclipse Public License version 1.0:
+https://www.eclipse.org/legal/epl-v10.html
+  
+GNU General Public License version 2:
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+  
+GNU Lesser General Public License version 2.1:
+http://www.gnu.org/copyleft/lgpl.html"							
+Jruby-OpenSSL-0.7.3	Copyright (C) 2007 Ola Bini <ola.bini@gmail.com>	JRuby-OpenSSL is an add-on gem for JRuby that emulates the Ruby OpenSSL native library.	"Ruby License
+(For details, please refer to the attached file, Jruby-OpenSSL_license.txt)"							
+Jruby-rack 1.1.20	"Copyright (c) 2012-2014 Karol Bucek
+Copyright (c) 2010-2012 Engine Yard, Inc.
+Copyright (c) 2007-2009 Sun Microsystems, Inc."	Lightweight adapter for the Java Servlet environment allowing any Rack-based application to run unmodified in a Java Servlet container.	"MIT License
+(https://github.com/jruby/jruby-rack/blob/master/LICENSE.txt)"							
+jvyaml-0.0.2	Copyright (c) 2009-2010 Ola Bini <ola.bini@gmail.com>	jvyaml is an alternative YAML gem for JRuby.	"MIT License
+(https://github.com/olabini/jvyaml-gem/blob/master/LICENSE)"							
+Log4j	"Apache log4j
+Copyright 2007 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/)."	Logging	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+lucene  3.5.0	Copyright 2011 The Apache Software Foundation	"A Java full-text search engine.  Lucene is not a complete
+application, but rather a code library and API that can easily be used
+to add search capabilities to applications."	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+microsoft TFS SDK 10.1.0	Copyright (C) Microsoft Corporation	Access Team Foundation features from Java applications	"Microsoft Software License for 
+Visual Studio Team Foundation Server 2010 Software Development Kit for Java
+(For details, please see the included file, Microsoft_TFS_SDK_LICENSE.html)"							
+mingle_git_plugin	Copyright 2010 ThoughtWorks, Inc.	Rails plugin for linking Git changesets to Mingle cards.	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+mingle_hg_plugin	Copyright 2010 ThoughtWorks, Inc.	Rails plugin for linking Mecurial changesets to Mingle cards.	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+mingle-macro-development-toolkit (1.3.3)	Copyright 2010 ThoughtWorks, Inc.  All rights reserved.	This toolkit provides support for developing, testing and deploying custom Mingle macros. Use the built in generator to create a skeleton of a plugin which you can then deploy to an instance of Mingle running version 2.2 or later of the software.	MIT License							
+Minitest 1.7.2	Copyright (c) Ryan Davis, Seattle.rb	minitest/unit is a small and fast replacement for ruby's huge and slow test/unit.	MIT License							
+mixpanel-ruby	Copyright 2012 Mixpanel, Inc.	Integration with Mixpanel.com	Apache 2.0							
+newrelic_rpm	Copyright (c) 2008-2013 New Relic, Inc.	New Relic is a performance management system	MIT License							
+Nokogiri 1.6.6.2	"Copyright (c) 2008 - 2015:
+Aaron Patterson
+Mike Dalessio
+Charles Nutter
+Sergio Arbeo
+Patrick Mahoney
+Yoko Harada
+Akinori MUSHA
+John Shahid"	XML parser	MIT License							
+oauth2_provider	Copyright 2010 ThoughtWorks, Inc.	Rails plugin for making Mingle an Oauth 2 provider.	"This file is composed of both closed and open source components.  A notice file describing those open source programs is included with this download:
+OAuth2 Provider Plugin NOTICE.pdf"							
+ojdbc6.jar	Copyright (c) 1998, 2007, Oracle. All rights reserved.	This library allows Java programs to connect to an Oracle database using standard, database independent Java code.	"You agree to be bound by the terms of the Oracle Technology Network Development and Distribution License Terms which can be found at 
+http://www.oracle.com/technetwork/licenses/distribution-license-152002.html, and in particular those sections entitled "License Rights," "Ownership and Restrictions," "Export," "Disclaimer of Warranties and Exclusive Remedies," "No Technical Support," "End of Agreement," "Relationship Between the Parties," and "Open Source."  Oracle USA, Inc. is a third party beneficiary to this agreement, but only with respect to your use of the Oracle software."							
+postgresql-8.2-505.jdbc3.jar	"Copyright (c) 1997-2008, PostgreSQL Global Development Group
+All rights reserved."	This library allows Java programs to connect to a PostgreSQL database using standard, database independent Java code.	BSD License (http://jdbc.postgresql.org/license.html)							
+Prototype Javascript Framework	"Prototype JavaScript framework, version 1.5.1.1
+ (c) 2005-2007 Sam Stephenson"	"Prototype is a JavaScript Framework that aims to ease development of dynamic web applications.
+
+Featuring a unique, easy-to-use toolkit for class-driven development and the nicest Ajax library around, Prototype is quickly becoming the codebase of choice for web application developers everywhere."	"Copyright (c) 2005-2007 Sam Stephenson
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+For Details See: http://www.prototypejs.org/"							
+racc	"Minero Aoki aamine@loveruby.net
+http://i.loveruby.net"	Parser generator and runtime (Ruby yacc)—used to support our wiki macro language.	"http://i.loveruby.net/en/projects/racc/
+
+Distributed under LGPL  
+LGPL: http://www.gnu.org/copyleft/lgpl.html  (Full License Included With This Download - LGPL.txt)"							
+rack-1.1.6	Copyright (C) 2007, 2008, 2009 Christian Neukirchen <http://purl.org/net/chneukirchen>	Rack provides a minimal, modular and adaptable interface for developing web applications in Ruby.	MIT License							
+rails2_rubygems2_compatibility 0.0.2	Copyright (c) Tom Preston-Werner	ensures rubygems are compatible with Rails 2 version	"MIT License
+https://github.com/sealink/rails2_rubygems2_compatibility/blob/master/LICENSE"							
+Rails-Integration	"JRuby -  A Java implementation of the Ruby language
+
+Authors: Stefan Matthias Aust, Anders Bengtsson, Geert Bevin,
+ Piergiuliano Bossi, Johannes Brodwall, Rocky Burt, Paul Butcher,
+ Benoit Cerrina, Wyss Clemens, David Corbin, Thomas E Enebo, Robert Feldt,
+ Russ Freeman, Chad Fowler, Joey Gibson, Kiel Hodges, Xandy Johnson,
+ Kelvin Liu, Alan Moore, Akinori Musha, Charles Nutter, Takashi Okamoto
+ Jan Arne Petersen, Tobias Reif, David Saff, Ed Sinjiashvili, Daiki Ueno
+ Matthias Veit, Jason Voegele, Sergey Yevtushenko, Robert Yokota, 
+ Ola Bini, Nick Sieger, and many gracious contributions from the community.
+
+Project Contact: Thomas E Enebo <enebo@acm.org>
+
+JRuby also uses code generously shared by the creator of the Ruby language, 
+Yukihiro Matsumoto <matz@netlab.co.jp>."	Java web applications are typically packaged as WAR files in preparation for distribution and deployment to J2EE servers. Rails Integration allows the packaging of Ruby on Rails applications in a similar form, to enable seamless deployment to Java servers.	"http://rubyforge.org/projects/jruby-extras/ 
+
+
+
+Distributed under a tri-license (CPL/GPL/LGPL) 
+CPL:  http://www.eclipse.org/legal/cpl-v10.html
+GPL: http://www.gnu.org/copyleft/gpl.html
+LGPL: http://www.gnu.org/copyleft/lgpl.html  (Full License Included With This Download - LGPL.txt)
+http://rubyforge.org/frs/download.php/18346/rails-integration-1.0.jar"							
+rails_xss	Copyright (c) 2009 Koziarski Software Ltd.	This plugin replaces the default ERB template handlers with erubis, and switches the behaviour to escape by default rather than requiring you to escape.  This is consistent with the behaviour in Rails 3.0.	MIT License							
+rake 0.8.1	Copyright (c) 2003, 2004, 2005, 2006 Jim Weirich	A ruby based build tool.	MIT License							
+RedCloth 3.0.4	"Textile is© 2003 Dean Allen. All rights reserved. 
+
+RedCloth is also based on PyTextile, which is: Copyright© 2003, Mark Pilgrim."	Ruby library that converts text marked up in Textile to HTML.	"http://whytheluckystiff.net/ruby/redcloth/
+
+Distributed under BSD License (copy included with this install)"							
+retryable 1.3.1	Copyright (c) 2012 Carlo Zottmann & Nikita Fedyashev	Runs a code block, and retries it when an exception occurs	MIT License							
+RSCM - Ruby Source Control Management (0.2.0)	"http://rscm.rubyforge.org/
+
+Copyright not listed"	"RSCM is to SCM what DBI/JDBC/ODBC are to databases - an SCM-independent API for accessing a wide variety of SCMs. The features are roughly:
+
+
+
+* Check out a working copy (with possibility to specify branch/date/label)
+
+* Get changesets (changesets are emulated for non-transactional SCMs like CVS and StarTeam)
+
+* Get diffs
+
+* Add and commit files
+
+* Manipluate triggers"	"http://rscm.rubyforge.org/
+
+
+License not listed"							
+Ruby on Rails (2.3.18)	Copyright (c) 2004-2010 David Heinemeier Hansson	Core web application and persistence framework	MIT License							
+sass 3.2.5	Copyright (c) 2006-2009 Hampton Catlin, Nathan Weizenbaum, and Chris Eppstein	Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more.	MIT License							
+script.aculo.us	Copyright (c) 2005 Thomas Fuchs (http://script.aculo.us, http://mir.aculo.us)	Javascript library for	"Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."							
+Simple Logging Facade for Java (SLF4J)	Copyright © 2004-2007 QOS.ch	The Simple Logging Facade for Java or (SLF4J) is intended to serve as a simple facade for various logging APIs allowing to the end-user to plug in the desired implementation at deployment time.	"SLF4J source code and binaries are distributed under the following license.
+Copyright (c) 2004-2007 QOS.ch All rights reserved. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+These terms are identical to those of the MIT License, also called the X License or the X11 License, which is a simple, permissive non-copyleft free software license. It is deemed compatible with virtually all types of licenses, commercial or otherwise. In particular, the Free Software Foundation has declared it compatible with GNU GPL. It is also known to be approved by the Apache Software Foundation as compatible with Apache Software License."							
+smack.jar (developer release)	Copyright 2002-2008 Jive Software	Smack is an Open Source XMPP (Jabber) client library for instant messaging and presence.	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+Snowball	Copyright (c) 2001, Dr Martin Porter, and (for the Java developments) Copyright (c) 2002, Richard Boulton	Snowball is a small string processing language designed for creating stemming algorithms for use in Information Retrieval.	http://snowball.tartarus.org/license.php							
+Spring 3.1.0	There are multiple copyright holdres for this work, the copyright information can be found in the source code, which is available here: http://sourceforge.net/project/showfiles.php?group_id=73357&package_id=173644	Spring is a layered Java/J2EE application framework, based on code published in Expert One-on-One J2EE Design and Development by Rod Johnson	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+StAX 1.0	Copyright 2002, 2003, 2004 BEA Systems, Inc.	A Streaming API for XML, provides an implementation of the pull-parser specified in JSR-173	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+SQLJet (1.0.0)	Copyright © 2004-2009, TMate Software	A lightweight pure Java implementation of SQLite embedded DBMS engine. SQLJet library is used by SVNKit "under the hood" to support some of the optional Subversion features, and future Subversion 1.7 features.	http://svnkit.com/licensing/index.html (All rights granted by the Agreement in regard to the SVNKit Java Library developed by TMate also granted on the same terms and conditions to the SQLJet Java Library developed by TMate)							
+susy 1.0.5	Copyright (c) 2012, Eric Meyer	Susy is a semantic CSS grid system	BSD License							
+SVNKit (1.8.8)	Copyright © 2004-2013, TMate Software	pure Java Subversion client library. You would like to use SVNKit when you need to access or modify Subversion repository from your Java application, be it a standalone program, plugin or web application.	http://svnkit.com/licensing/index.html							
+SWFObject (2.1)	Copyright (c) 2007-2008 Geoff Stearns, Michael Williams, and Bobby van der Sluis	SWFObject is a method to embed Flash content, which utilizes one small JavaScript file.	MIT License							
+syntax	Copyright (c) 2004, Jamis Buck (jgb3@email.byu.edu)	Ruby library that converts source code to hightlighted HTML.	"http://rubyforge.org/projects/syntax/
+
+Distributed Under BSD license (copy included with this install)"							
+SyntaxHighlighter	Copyright 2004-2007 Alex Gorbatchev.	Allows insertion of colored code snippets on a web page without relying on any server side scripts.	"http://code.google.com/p/syntaxhighlighter/
+
+Distributed under LGPL  
+LGPL: http://www.gnu.org/copyleft/lgpl.html  (Full License Included With This Download - LGPL.txt)"							
+TagSoup	http://ccil.org/~cowan/XML/tagsoup/	SAX-compliant parser written in Java that, instead of parsing well-formed or valid XML, parses HTML as it is found in the wild: poor, nasty and brutish, though quite often far from short. TagSoup is designed for people who have to process this stuff using some semblance of a rational application design. By providing a SAX interface, it allows standard XML tools to be applied to even the worst HTML. TagSoup also includes a command-line processor that reads HTML files and can generate either clean HTML or well-formed XML that is a close approximation to XHTML.	"http://ccil.org/~cowan/XML/tagsoup/
+
+
+Distributed under Academic Free License (Included in NOTICE Folder)"							
+Textile Editor Helper v0.2	Copyright (c) 2007 Dave Olsen, West Virginia University	The Textile Editor Helper (TEH) is a Javascript-based text formatting toolbar that will be added to all of your text areas that utilize the TEH feature. TEH was developed to provide a more WYSIWYG-ish option for users of our Rails CMS called slate while still letting us use Textile.	"Textile Editor Helper is released under the MIT license.
+
+Copyright (c) 2007 Dave Olsen, West Virginia University
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE."							
+Timecop 0.6.1	Copyright (c) 2012 Travis Jeffery, John Trupiano	Provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.	MIT License							
+TriLead SSH-2	Copyright (c) 2007-2008 Trilead AG (http://www.trilead.com)	Java implementation of  SSH that is used by SVN Kit.	BSD License (copy included with this install)							
+tw_studios_gadgets	Copyright 2010 ThoughtWorks, Inc.	Rails plugin for making Mingle a gadget rendering server.	"This file is composed of both closed and open source components.  A notice file describing those open source programs is included with this download:
+Gadget Rendering Server NOTICE.pdf"							
+uuidtools	Copyright 2013 Bob Aman	dependency of AWS-SDK	MIT License							
+White List	Copyright (c) 2005 Rick Olson	Rails Plugin for Escaping HTML Tags.	http://svn.techno-weenie.net/projects/plugins/white_list/							
+will_paginate 2.3.16	Copyright (c) 2007 PJ Hyett and Mislav Marohnic	A rails plugin to provide pagination support.	MIT License							
+xbean-spring 3.3	See attached notice file; xbean-spring_3.3_Notice.txt	Support for autowiring spring beans from XML configuration.	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+Yahoo! UI Library	Copyright (c) 2007, Yahoo! Inc.	The Yahoo! User Interface (YUI) Library is a set of utilities and controls, written in JavaScript, for building richly interactive web applications using techniques such as DOM scripting, DHTML and AJAX. The YUI Library also includes several core CSS resources. All components in the YUI Library have been released as open source under a BSD license and are free for all uses.	"Distributed under BSD License
+
+Redistribution and use of this software in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice, this list of conditions and the
+      following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+    * Neither the name of Yahoo! Inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission of Yahoo! Inc.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."							
+Commons IO 2.2	Copyright © 2012 The Apache Software Foundation	Commons IO is a library of utilities to assist with developing IO functionality.	Apache v2.0 (http://www.apache.org/licenses/LICENSE-2.0)							
+Sprockets 2.11.0	"Copyright © 2014 Sam Stephenson <sstephenson@gmail.com>
+Copyright © 2014 Joshua Peek <josh@joshpeek.com>"	Sprockets is a Ruby library for compiling and serving web assets. 	MIT License							
+Warbler 1.4.9	Warbler © 2010-2013 Engine Yard, Inc. Warbler © 2007-2009 Sun Microsystems, Inc.	Warbler is a gem to make a Java jar or war file out of any Ruby, Rails, Merb, or Rack application.	MIT License							
+Hike 1.2.3	Copyright (c) 2011 Sam Stephenson	A Ruby library for finding files in a set of paths	MIT License							
+multi_json 1.9.0	Copyright (c) 2010-2013 Michael Bleigh, Josh Kalderimis, Erik Michaels-Ober, and Pavel Pravosud	A generic swappable back-end for JSON handling.	"Copyright (c) 2010-2013 Michael Bleigh, Josh Kalderimis, Erik Michaels-Ober, Pavel Pravosud
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."							
+tilt (2.0.0)	Copyright (c) 2010 Ryan Tomayko	A generic interface to multiple Ruby template engines.	MIT License							
+Bourbon (3.1.8)	Copyright © 2011–2014 thoughtbot, inc.	A simple and lightweight mixin library for Sass.	MIT License							
+Moment.js (2.7.0)	Copyright (c) 2011-2014 Tim Wood, Iskren Chernev, Moment.js contributors	Parse, validate, manipulate, and display dates in javascript.	MIT License							
+Mousetrap.js (1.4.6)	Copyright 2013 Craig Campbell	Simple library for handling keyboard shortcuts in Javascript	Apache License, Version 2.0							
+Jquery.timeago.js (1.4.0)	Copyright (c) 2008-2013, Ryan McGeary (ryan -[at]- mcgeary [*dot*] org)	Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago" or "about 1 day ago").	MIT License							
+tag-it (2.0)	Copyright (c) 2011 Levy Carneiro Jr.	A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.	MIT License							
+jQuery Growl (2.0.4)	Copyright (c) 2010 - 2013 Kevin Sylvestre	Growl is a jQuery plugin designed to provide informative messages in the browser.	MIT License							
+jQuery Touch Punch (0.2.3)	© 2011David Furfero 	Touch Event Support for jQuery UI	MIT License							
+jQuery Mobile (1.4.2)	Copyright 2014 The jQuery Foundation and other contributors.	A Touch-Optimized Web Framework	MIT License							
+Tinycolor.js (1.0.0)	Copyright (c) 2012, Brian Grinstead	Fast, small color manipulation and conversion for JavaScript	MIT License							
+jQuery.caret (1.5.2)	Copyright (c) 2012-2014 Andrew C. Dvorak	jQuery plugin to manipulate the caret's position in a text box	Dual licensed under the MIT and GPL licenses.							
+jQuery outside events (v1.1)	Copyright (c) 2010 "Cowboy" Ben Alman	jQuery plugin that provides a 'clickoutside' event definition	Dual licensed under the MIT and GPL licenses.							
+jQuery sorttable (1.0.3)	"Copyright (c) 2013, David Brink dbrink@gmail.com
+Copyright (c) 2010, Andres Koetter"	Re-order table columns by using drag'n'drop	Dual licensed under the MIT and GPL licenses.							
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
