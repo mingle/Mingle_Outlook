@@ -1,3 +1,0 @@
-[submodule "do"]
-	path = node_project_digitalocean
-	url = git@github.com:ankitsri11/node_project_digitalocean.git
