@@ -7,7 +7,7 @@ Requirements :
  ```
  gem install mail
  gem install gmail
- gem install api-auth
+ gem install api-auth -v 1.0.3
  ```
  
 Command to run ::::::
