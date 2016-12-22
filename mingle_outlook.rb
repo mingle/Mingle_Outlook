@@ -3,6 +3,17 @@ require 'net/https'
 require 'time'
 require 'api-auth'
 require 'json'
+require 'io/console'
+require 'active_support'
+require 'active_support/core_ext'
+
+
+puts "Enter outlook userid"
+userid = gets
+puts "Enter outlook password"
+password = STDIN.noecho(&:gets)
+
+
 
 def http_post(url, params, options={})
   uri = URI.parse(url)
@@ -27,9 +38,9 @@ Mail.defaults do
   delivery_method :smtp, { 
                            :address              => '<your_smtp_address>',  #'smtp.live.com'
                            :port                 => <smtp_port>,            # port = 25 or 587
-                           :domain               => '<your_domain>',
-                           :user_name            => '<your_email_id@domain.com>',
-                           :password             => '<your_password>',
+                           :domain               => 'outlook.com',
+                           :user_name            => userid,
+                           :password             => password,
                            :authentication       => :login,
                            :enable_starttls_auto => true  
                            }
@@ -37,14 +48,14 @@ Mail.defaults do
 
  retriever_method :imap, { :address    => '<your_imap_address>',           #'imap-mail.outlook.com'
                           :port       => <imap_port>,                     # port = 993
-                          :user_name  => '<your_email_id@domain.com>',
-                          :password   => '<your_password>',
+                          :user_name  => userid,
+                          :password   => password,
                           :enable_ssl => true    }
 end
 
 
 
-emails = Mail.find(keys: ['NOT','SEEN','FROM','<user_email_ID>'])
+emails = Mail.find(keys: ['NOT','SEEN','FROM','ankitsri@thoughtworks.com'])
 
 
 
@@ -54,11 +65,16 @@ URL = 'https://<your_instance_name>.mingle-api.thoughtworks.com/api/v2/projects/
 OPTIONS = {:access_key_id => '<access key>', :access_secret_key => '<secret key>'}
 
 emails.each do |email|
+
+puts "Processing email with subject : #{email.subject}"
+
 	PARAMS = { 
 	  :card => { 
-	    :card_type_name => "<card_type>", :name => email.subject, :description => email.body.decoded
+	    :card_type_name => "<card_type>", :name => email.subject, :description => email.body.raw_source.force_encoding("UTF-8")
 	    }
 	  }
 
 	http_post(URL, PARAMS, OPTIONS)
 end
+
+puts "All the emails are processed!!!"
